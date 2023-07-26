@@ -1,5 +1,5 @@
 # buttomCustom
-Botão 100% adapitavel com variante outline.
+# parâmetros de Customização
 title: => texto obrigatorio </br>
 onPress: função obrigatoria </br>
 isLoading?: se o mesmo está em processo de carregamento ou não </br>
