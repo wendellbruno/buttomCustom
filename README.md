@@ -1,5 +1,7 @@
-# buttomCustom
-# parâmetros de Customização
+# Iniciando o proejto
+- npm install -y
+- npm start.
+# Parâmetros de Customização
 title: => texto obrigatorio </br>
 onPress: função obrigatoria </br>
 isLoading?: se o mesmo está em processo de carregamento ou não </br>
